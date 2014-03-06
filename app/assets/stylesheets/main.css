@@ -31,7 +31,7 @@ body {
     font-style: normal;
 }
 
-#h-titre  a{
+#myFont{
     color:#93002F;
     font-family:Airplanes;
     font-size:5vw;
@@ -39,7 +39,7 @@ body {
     text-decoration: none;
 }
 
-#h-navbar {
+.welcome {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
